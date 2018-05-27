@@ -1,6 +1,4 @@
 from django.shortcuts import render
-from django.http import HttpResponse
-from AppTwo.models import user
 from AppTwo.forms import NewUserForm
 #Create your views here.
 
